@@ -1,0 +1,279 @@
+Epoch [1/150] Loss: 0.4543 [2025-11-24 21:23:25.704716]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [2/150] Loss: 0.3137 [2025-11-24 21:25:19.336987]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [3/150] Loss: 0.2879 [2025-11-24 21:27:15.674043]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [4/150] Loss: 0.2743 [2025-11-24 21:28:53.908737]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [5/150] Loss: 0.2665 [2025-11-24 21:30:33.854103]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [6/150] Loss: 0.2583 [2025-11-24 21:32:20.022875]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [7/150] Loss: 0.2531 [2025-11-24 21:34:05.357941]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [8/150] Loss: 0.2483 [2025-11-24 21:35:54.936929]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [9/150] Loss: 0.2449 [2025-11-24 21:37:45.654085]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [10/150] Loss: 0.2392 [2025-11-24 21:39:35.904927]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [11/150] Loss: 0.2363 [2025-11-24 21:41:28.333951]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [12/150] Loss: 0.2340 [2025-11-24 21:43:22.902524]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [13/150] Loss: 0.2300 [2025-11-24 21:45:14.929736]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [14/150] Loss: 0.2276 [2025-11-24 21:47:07.698650]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [15/150] Loss: 0.2260 [2025-11-24 21:48:55.775088]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [16/150] Loss: 0.2231 [2025-11-24 21:50:45.994451]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [17/150] Loss: 0.2218 [2025-11-24 21:52:37.009459]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [18/150] Loss: 0.2187 [2025-11-24 21:54:27.964310]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [19/150] Loss: 0.2176 [2025-11-24 21:56:20.537239]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [20/150] Loss: 0.2157 [2025-11-24 21:58:13.095994]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [21/150] Loss: 0.2145 [2025-11-24 22:00:04.001542]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [22/150] Loss: 0.2128 [2025-11-24 22:01:54.350458]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [23/150] Loss: 0.2118 [2025-11-24 22:03:37.296140]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [24/150] Loss: 0.2091 [2025-11-24 22:05:25.976058]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [25/150] Loss: 0.2076 [2025-11-24 22:07:17.427003]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [26/150] Loss: 0.2058 [2025-11-24 22:09:06.769696]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [27/150] Loss: 0.2054 [2025-11-24 22:10:55.491888]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [28/150] Loss: 0.2026 [2025-11-24 22:12:45.632190]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [29/150] Loss: 0.2019 [2025-11-24 22:14:32.137930]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [30/150] Loss: 0.2012 [2025-11-24 22:16:20.592335]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [31/150] Loss: 0.1988 [2025-11-24 22:18:09.166479]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [32/150] Loss: 0.1991 [2025-11-24 22:19:57.351081]
+Epoch [33/150] Loss: 0.1967 [2025-11-24 22:21:49.915106]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [34/150] Loss: 0.1954 [2025-11-24 22:23:37.385551]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [35/150] Loss: 0.1941 [2025-11-24 22:25:25.873455]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [36/150] Loss: 0.1941 [2025-11-24 22:27:17.949641]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [37/150] Loss: 0.1921 [2025-11-24 22:29:08.278017]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [38/150] Loss: 0.1911 [2025-11-24 22:31:01.189069]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [39/150] Loss: 0.1905 [2025-11-24 22:32:50.671444]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [40/150] Loss: 0.1890 [2025-11-24 22:34:39.467461]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [41/150] Loss: 0.1882 [2025-11-24 22:36:29.740418]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [42/150] Loss: 0.1876 [2025-11-24 22:38:17.740116]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [43/150] Loss: 0.1856 [2025-11-24 22:40:05.775593]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [44/150] Loss: 0.1858 [2025-11-24 22:42:00.252216]
+Epoch [45/150] Loss: 0.1835 [2025-11-24 22:43:53.561032]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [46/150] Loss: 0.1839 [2025-11-24 22:45:44.684096]
+Epoch [47/150] Loss: 0.1822 [2025-11-24 22:47:37.397562]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [48/150] Loss: 0.1816 [2025-11-24 22:49:29.845590]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [49/150] Loss: 0.1799 [2025-11-24 22:51:22.262277]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [50/150] Loss: 0.1787 [2025-11-24 22:53:14.537860]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [51/150] Loss: 0.1774 [2025-11-24 22:55:02.443870]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [52/150] Loss: 0.1780 [2025-11-24 22:56:54.867150]
+Epoch [53/150] Loss: 0.1763 [2025-11-24 22:58:46.370713]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [54/150] Loss: 0.1758 [2025-11-24 23:00:37.173876]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [55/150] Loss: 0.1753 [2025-11-24 23:02:27.299236]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [56/150] Loss: 0.1745 [2025-11-24 23:04:15.142770]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [57/150] Loss: 0.1729 [2025-11-24 23:06:04.923514]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [58/150] Loss: 0.1732 [2025-11-24 23:07:55.616567]
+Epoch [59/150] Loss: 0.1709 [2025-11-24 23:09:46.880546]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [60/150] Loss: 0.1718 [2025-11-24 23:11:38.186976]
+Epoch [61/150] Loss: 0.1703 [2025-11-24 23:13:27.674311]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [62/150] Loss: 0.1696 [2025-11-24 23:15:19.458115]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [63/150] Loss: 0.1687 [2025-11-24 23:17:13.597783]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [64/150] Loss: 0.1698 [2025-11-24 23:19:08.319731]
+Epoch [65/150] Loss: 0.1677 [2025-11-24 23:20:58.900611]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [66/150] Loss: 0.1670 [2025-11-24 23:22:48.709732]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [67/150] Loss: 0.1651 [2025-11-24 23:24:37.026703]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [68/150] Loss: 0.1646 [2025-11-24 23:26:33.842460]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [69/150] Loss: 0.1633 [2025-11-24 23:28:31.361035]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [70/150] Loss: 0.1626 [2025-11-24 23:30:21.331454]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [71/150] Loss: 0.1604 [2025-11-24 23:32:15.358072]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [72/150] Loss: 0.1600 [2025-11-24 23:34:07.153847]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [73/150] Loss: 0.1591 [2025-11-24 23:35:58.875761]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [74/150] Loss: 0.1586 [2025-11-24 23:37:50.545827]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [75/150] Loss: 0.1595 [2025-11-24 23:39:40.991825]
+Epoch [76/150] Loss: 0.1566 [2025-11-24 23:41:32.509207]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [77/150] Loss: 0.1573 [2025-11-24 23:43:24.398413]
+Epoch [78/150] Loss: 0.1554 [2025-11-24 23:45:14.579107]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [79/150] Loss: 0.1547 [2025-11-24 23:47:08.669533]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [80/150] Loss: 0.1531 [2025-11-24 23:49:00.167664]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [81/150] Loss: 0.1516 [2025-11-24 23:50:54.201334]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [82/150] Loss: 0.1525 [2025-11-24 23:52:44.689555]
+Epoch [83/150] Loss: 0.1502 [2025-11-24 23:54:35.716493]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [84/150] Loss: 0.1488 [2025-11-24 23:56:30.130477]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [85/150] Loss: 0.1488 [2025-11-24 23:58:24.124964]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [86/150] Loss: 0.1487 [2025-11-25 00:00:19.398025]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [87/150] Loss: 0.1473 [2025-11-25 00:02:15.405816]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [88/150] Loss: 0.1459 [2025-11-25 00:04:12.001137]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [89/150] Loss: 0.1445 [2025-11-25 00:06:06.711922]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [90/150] Loss: 0.1431 [2025-11-25 00:07:59.609984]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [91/150] Loss: 0.1420 [2025-11-25 00:09:56.710260]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [92/150] Loss: 0.1417 [2025-11-25 00:11:49.560461]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [93/150] Loss: 0.1406 [2025-11-25 00:13:50.257872]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [94/150] Loss: 0.1378 [2025-11-25 00:15:44.250374]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [95/150] Loss: 0.1378 [2025-11-25 00:17:38.310408]
+Epoch [96/150] Loss: 0.1352 [2025-11-25 00:19:38.471470]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [97/150] Loss: 0.1350 [2025-11-25 00:21:52.818341]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [98/150] Loss: 0.1336 [2025-11-25 00:23:58.407804]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [99/150] Loss: 0.1329 [2025-11-25 00:26:01.738108]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [100/150] Loss: 0.1310 [2025-11-25 00:28:11.279302]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [101/150] Loss: 0.1303 [2025-11-25 00:30:13.499408]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [102/150] Loss: 0.1285 [2025-11-25 00:32:16.579098]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [103/150] Loss: 0.1281 [2025-11-25 00:34:09.135270]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [104/150] Loss: 0.1274 [2025-11-25 00:36:00.978787]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [105/150] Loss: 0.1252 [2025-11-25 00:37:52.493078]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [106/150] Loss: 0.1244 [2025-11-25 00:39:06.630293]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [107/150] Loss: 0.1219 [2025-11-25 00:40:21.747040]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [108/150] Loss: 0.1210 [2025-11-25 00:41:38.627041]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [109/150] Loss: 0.1203 [2025-11-25 00:42:55.411698]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [110/150] Loss: 0.1196 [2025-11-25 00:44:33.337610]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [111/150] Loss: 0.1177 [2025-11-25 00:46:20.521045]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [112/150] Loss: 0.1168 [2025-11-25 00:48:04.575470]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [113/150] Loss: 0.1146 [2025-11-25 00:49:53.904012]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [114/150] Loss: 0.1137 [2025-11-25 00:51:43.221588]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [115/150] Loss: 0.1124 [2025-11-25 00:53:32.879470]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [116/150] Loss: 0.1115 [2025-11-25 00:55:21.413285]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [117/150] Loss: 0.1110 [2025-11-25 00:57:10.365797]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [118/150] Loss: 0.1095 [2025-11-25 00:59:00.767411]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [119/150] Loss: 0.1093 [2025-11-25 01:00:51.566034]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [120/150] Loss: 0.1074 [2025-11-25 01:02:40.076366]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [121/150] Loss: 0.1060 [2025-11-25 01:04:27.269830]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [122/150] Loss: 0.1043 [2025-11-25 01:06:17.808129]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [123/150] Loss: 0.1050 [2025-11-25 01:08:08.852463]
+Epoch [124/150] Loss: 0.1030 [2025-11-25 01:10:00.472490]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [125/150] Loss: 0.1027 [2025-11-25 01:11:49.756713]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [126/150] Loss: 0.1025 [2025-11-25 01:13:40.669144]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [127/150] Loss: 0.0995 [2025-11-25 01:15:28.223005]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [128/150] Loss: 0.0993 [2025-11-25 01:17:13.953301]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [129/150] Loss: 0.1006 [2025-11-25 01:19:03.881682]
+Epoch [130/150] Loss: 0.0970 [2025-11-25 01:20:56.390616]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [131/150] Loss: 0.0970 [2025-11-25 01:22:49.528317]
+Epoch [132/150] Loss: 0.0955 [2025-11-25 01:24:39.931554]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [133/150] Loss: 0.0939 [2025-11-25 01:26:38.025422]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [134/150] Loss: 0.0957 [2025-11-25 01:28:25.961559]
+Epoch [135/150] Loss: 0.0948 [2025-11-25 01:30:14.778177]
+Epoch [136/150] Loss: 0.0931 [2025-11-25 01:32:03.786481]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [137/150] Loss: 0.0930 [2025-11-25 01:33:54.624408]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [138/150] Loss: 0.0916 [2025-11-25 01:35:46.785135]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [139/150] Loss: 0.0912 [2025-11-25 01:37:45.937488]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [140/150] Loss: 0.0916 [2025-11-25 01:39:34.108565]
+Epoch [141/150] Loss: 0.0910 [2025-11-25 01:41:24.311170]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [142/150] Loss: 0.0908 [2025-11-25 01:43:14.466553]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [143/150] Loss: 0.0898 [2025-11-25 01:45:02.641787]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [144/150] Loss: 0.0887 [2025-11-25 01:46:52.579303]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [145/150] Loss: 0.0895 [2025-11-25 01:48:42.262348]
+Epoch [146/150] Loss: 0.0881 [2025-11-25 01:50:32.048781]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [147/150] Loss: 0.0885 [2025-11-25 01:52:23.890880]
+Epoch [148/150] Loss: 0.0876 [2025-11-25 01:54:14.666913]
+./models/yaari-synth-auditor-model-v1.pth updated with new weights.
+Epoch [149/150] Loss: 0.0892 [2025-11-25 01:56:03.867589]
+Epoch [150/150] Loss: 0.0881 [2025-11-25 01:57:55.728900]
